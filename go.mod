@@ -1,4 +1,4 @@
-module ya2
+module github.com/af-kay/ya2
 
 go 1.20
 
